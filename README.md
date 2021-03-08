@@ -2,7 +2,6 @@
 Game Bear Hunter adalah sebuah Game Petualang Beruang yang mencari Sebuah madu untuk mencapai kemenganan dengan skor yang telah ditentukan
 
 # Present
-<div align="center">
 ![](Present/Concept.PNG)
 ![](Present/Plot.PNG)
 ![](Present/Features.PNG)
@@ -11,4 +10,3 @@ Game Bear Hunter adalah sebuah Game Petualang Beruang yang mencari Sebuah madu u
 ![](Present/ImplementationGame1.PNG)
 ![](Present/ImplementationGame2.PNG)
 ![](Present/ImplementationWINGame.PNG)
-</div>
