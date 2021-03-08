@@ -2,7 +2,12 @@
 Game Bear Hunter adalah sebuah Game Petualang Beruang yang mencari Sebuah madu untuk mencapai kemenganan dengan skor yang telah ditentukan
 
 # Present
-<h2 align="center">
-  <img src="https://github.com/ilhamadmin7/Project-Game-Desktop/tree/main/Present/Control.png" alt="Control" width="600px" />
-  <br>
-</h2>
+![](Present/Concept.PNG)
+![](Present/Control.PNG)
+![](Present/Plot.PNG)
+![](Present/Features.PNG)
+![](Present/Implementation%Menu%and%About.PNG)
+![](Present/Control.PNG)
+![](Present/Control.PNG)
+![](Present/Control.PNG)
+![](Present/Control.PNG)
